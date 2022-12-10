@@ -78,6 +78,7 @@
   width: 250%;
   height: auto;
   margin-left: -100px;
+  padding: 10px;
 }
 
 .loader__darkscreen {
