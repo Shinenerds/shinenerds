@@ -81,10 +81,10 @@
   
 }
 
-@media screen and (min-width: 1366px) {
+@media screen and (min-width: 750px) {
 .loader__container .loader-content .loader-logo img {
   
-  display: block;
+  display: none;
   width: 250%;
   height: auto;
   margin-left: -125px;
